@@ -5,7 +5,7 @@
 ### Context
 
 * **Simple UNIX command interpreter.**
-* The code is styled according [Betty](https://github.com/holbertonschool/Betty)
+* The code is styled according to [Betty](https://github.com/holbertonschool/Betty)
 * No more than 5 functions per file
 * Files are compiled and tested on Ubuntu 20.04 LTS
 
